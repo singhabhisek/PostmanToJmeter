@@ -6,11 +6,12 @@ Postman to Jmeter converter utility
 3. Execute the program to generate the JMX file in a given location as similar to Postman json file
 
 
-Prerequisites for Python Program - 
+Prerequisite libraries for Python Program - 
 ===================================
 
-import json
-import os
-import sys
-import uuid
-import urllib
+
+1. import json
+2. import os
+3. import sys
+4. import uuid
+5. import urllib
